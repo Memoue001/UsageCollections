@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\UsageCollections\UsageCollections\bin\Debug\net8.0\UsageCollections.exe
+C:\Users\DELL\source\repos\UsageCollections\UsageCollections\bin\Debug\net8.0\UsageCollections.deps.json
+C:\Users\DELL\source\repos\UsageCollections\UsageCollections\bin\Debug\net8.0\UsageCollections.runtimeconfig.json
+C:\Users\DELL\source\repos\UsageCollections\UsageCollections\bin\Debug\net8.0\UsageCollections.dll
+C:\Users\DELL\source\repos\UsageCollections\UsageCollections\bin\Debug\net8.0\UsageCollections.pdb
+C:\Users\DELL\source\repos\UsageCollections\UsageCollections\obj\Debug\net8.0\UsageCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\UsageCollections\UsageCollections\obj\Debug\net8.0\UsageCollections.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\UsageCollections\UsageCollections\obj\Debug\net8.0\UsageCollections.AssemblyInfo.cs
+C:\Users\DELL\source\repos\UsageCollections\UsageCollections\obj\Debug\net8.0\UsageCollections.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\UsageCollections\UsageCollections\obj\Debug\net8.0\UsageCollections.dll
+C:\Users\DELL\source\repos\UsageCollections\UsageCollections\obj\Debug\net8.0\refint\UsageCollections.dll
+C:\Users\DELL\source\repos\UsageCollections\UsageCollections\obj\Debug\net8.0\UsageCollections.pdb
+C:\Users\DELL\source\repos\UsageCollections\UsageCollections\obj\Debug\net8.0\UsageCollections.genruntimeconfig.cache
+C:\Users\DELL\source\repos\UsageCollections\UsageCollections\obj\Debug\net8.0\ref\UsageCollections.dll
